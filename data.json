@@ -1,0 +1,7 @@
+[
+  {
+    "id": "ELIG-001",
+    "criteria": "Inclusion: Age > 18. Exclusion: Prior history of cardiac events.",
+    "status": "standard_protocol"
+  }
+]
